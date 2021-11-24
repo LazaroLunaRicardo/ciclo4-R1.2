@@ -1,0 +1,6 @@
+com\ciclocuatro\retouno\repository\crud\UserCrudRepository.class
+com\ciclocuatro\retouno\controller\UserController.class
+com\ciclocuatro\retouno\model\User.class
+com\ciclocuatro\retouno\service\UserService.class
+com\ciclocuatro\retouno\RetounoApplication.class
+com\ciclocuatro\retouno\repository\UserRepository.class
